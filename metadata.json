@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Copy of SPEED Car Rental \u0026 Tourism",
+  "description": "SPEED Car Rental \u0026 Tourism: Celebrating 17 years of premium 4WD, SUV, and Sedan rentals, rooftop tent camping gear, and customized Oman excursions (Nizwa cultural tours, Jebel Shams treks, and Wahiba desert safaris).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
